@@ -8,11 +8,15 @@
 
 ## Following are links to some of the JSON files (about the NFT Tress) stored on IPFS
 
-[Mango](ipfs://bafkreihq6m2s2elfudkhac4govoy2bzbob6fr5tkaarw4u23gz6xygobme)
-[Guava](ipfs://bafkreihxp2x3opbek7pw4gewtlanqf7n4d4ljypi5igw3pspf6ftxpm7jq)
-[Cherry](ipfs://bafkreihvaftpyu5cy7ybl5lcwtjgzwsqttulym5kxfoeqh4n47xwuyup7e)
-[Banyan](ipfs://bafkreiantyqxf5qcwqcnzglwd5rqzy7ly5dduoadau73sic7jknw3q4qty)
-[Apple](ipfs://bafkreif3t3lu6ls7jqqdymvuecp256vsc2jfg74phcl6khvyiyaj6skqxm)
+Mango:(ipfs://bafkreihq6m2s2elfudkhac4govoy2bzbob6fr5tkaarw4u23gz6xygobme)
+
+Guava:(ipfs://bafkreihxp2x3opbek7pw4gewtlanqf7n4d4ljypi5igw3pspf6ftxpm7jq)
+
+Cherry:(ipfs://bafkreihvaftpyu5cy7ybl5lcwtjgzwsqttulym5kxfoeqh4n47xwuyup7e)
+
+Banyan:(ipfs://bafkreiantyqxf5qcwqcnzglwd5rqzy7ly5dduoadau73sic7jknw3q4qty)
+
+Apple:(ipfs://bafkreif3t3lu6ls7jqqdymvuecp256vsc2jfg74phcl6khvyiyaj6skqxm)
 
 **NOTE**
 These IPFS Links contain
