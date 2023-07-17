@@ -8,7 +8,7 @@
 
 ## Following are links to some of the JSON files (about the NFT Tress) stored on IPFS
 
-Mango:(ipfs://bafkreihq6m2s2elfudkhac4govoy2bzbob6fr5tkaarw4u23gz6xygobme)
+Mango[ipfs://bafkreihq6m2s2elfudkhac4govoy2bzbob6fr5tkaarw4u23gz6xygobme](ipfs://bafkreihq6m2s2elfudkhac4govoy2bzbob6fr5tkaarw4u23gz6xygobme)
 
 Guava:(ipfs://bafkreihxp2x3opbek7pw4gewtlanqf7n4d4ljypi5igw3pspf6ftxpm7jq)
 
